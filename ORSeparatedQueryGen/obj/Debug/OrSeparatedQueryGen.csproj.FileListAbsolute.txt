@@ -1,0 +1,17 @@
+c:\users\abhagat\documents\visual studio 2012\Projects\ORQuerySeparator\ORQuerySeparator\bin\Debug\ORQuerySeparator.exe.config
+c:\users\abhagat\documents\visual studio 2012\Projects\ORQuerySeparator\ORQuerySeparator\bin\Debug\ORQuerySeparator.exe
+c:\users\abhagat\documents\visual studio 2012\Projects\ORQuerySeparator\ORQuerySeparator\bin\Debug\ORQuerySeparator.pdb
+c:\users\abhagat\documents\visual studio 2012\Projects\ORQuerySeparator\ORQuerySeparator\obj\Debug\ORQuerySeparator.frmMain.resources
+c:\users\abhagat\documents\visual studio 2012\Projects\ORQuerySeparator\ORQuerySeparator\obj\Debug\ORQuerySeparator.Properties.Resources.resources
+c:\users\abhagat\documents\visual studio 2012\Projects\ORQuerySeparator\ORQuerySeparator\obj\Debug\OrSeparatedQueryGen.csproj.GenerateResource.Cache
+c:\users\abhagat\documents\visual studio 2012\Projects\ORQuerySeparator\ORQuerySeparator\obj\Debug\ORQuerySeparator.exe
+c:\users\abhagat\documents\visual studio 2012\Projects\ORQuerySeparator\ORQuerySeparator\obj\Debug\ORQuerySeparator.pdb
+C:\Users\abhagat\Documents\Visual Studio 2012\Projects\ORSeparatedQueryGen\ORSeparatedQueryGen\bin\Debug\OrSeparatedQueryGen.exe.config
+C:\Users\abhagat\Documents\Visual Studio 2012\Projects\ORSeparatedQueryGen\ORSeparatedQueryGen\bin\Debug\OrSeparatedQueryGen.exe
+C:\Users\abhagat\Documents\Visual Studio 2012\Projects\ORSeparatedQueryGen\ORSeparatedQueryGen\bin\Debug\OrSeparatedQueryGen.pdb
+C:\Users\abhagat\Documents\Visual Studio 2012\Projects\ORSeparatedQueryGen\ORSeparatedQueryGen\obj\Debug\OrSeparatedQueryGen.csprojResolveAssemblyReference.cache
+C:\Users\abhagat\Documents\Visual Studio 2012\Projects\ORSeparatedQueryGen\ORSeparatedQueryGen\obj\Debug\OrSeparatedQueryGen.frmMain.resources
+C:\Users\abhagat\Documents\Visual Studio 2012\Projects\ORSeparatedQueryGen\ORSeparatedQueryGen\obj\Debug\OrSeparatedQueryGen.Properties.Resources.resources
+C:\Users\abhagat\Documents\Visual Studio 2012\Projects\ORSeparatedQueryGen\ORSeparatedQueryGen\obj\Debug\OrSeparatedQueryGen.csproj.GenerateResource.Cache
+C:\Users\abhagat\Documents\Visual Studio 2012\Projects\ORSeparatedQueryGen\ORSeparatedQueryGen\obj\Debug\OrSeparatedQueryGen.exe
+C:\Users\abhagat\Documents\Visual Studio 2012\Projects\ORSeparatedQueryGen\ORSeparatedQueryGen\obj\Debug\OrSeparatedQueryGen.pdb

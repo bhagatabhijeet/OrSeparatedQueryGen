@@ -1,0 +1,9 @@
+c:\users\abhagat\documents\visual studio 2012\Projects\ORQuerySeparator\ORQuerySeparator\bin\Debug\ORQuerySeparator.exe.config
+c:\users\abhagat\documents\visual studio 2012\Projects\ORQuerySeparator\ORQuerySeparator\bin\Debug\ORQuerySeparator.exe
+c:\users\abhagat\documents\visual studio 2012\Projects\ORQuerySeparator\ORQuerySeparator\bin\Debug\ORQuerySeparator.pdb
+c:\users\abhagat\documents\visual studio 2012\Projects\ORQuerySeparator\ORQuerySeparator\obj\Debug\ORQuerySeparator.csprojResolveAssemblyReference.cache
+c:\users\abhagat\documents\visual studio 2012\Projects\ORQuerySeparator\ORQuerySeparator\obj\Debug\ORQuerySeparator.frmMain.resources
+c:\users\abhagat\documents\visual studio 2012\Projects\ORQuerySeparator\ORQuerySeparator\obj\Debug\ORQuerySeparator.Properties.Resources.resources
+c:\users\abhagat\documents\visual studio 2012\Projects\ORQuerySeparator\ORQuerySeparator\obj\Debug\ORQuerySeparator.csproj.GenerateResource.Cache
+c:\users\abhagat\documents\visual studio 2012\Projects\ORQuerySeparator\ORQuerySeparator\obj\Debug\ORQuerySeparator.exe
+c:\users\abhagat\documents\visual studio 2012\Projects\ORQuerySeparator\ORQuerySeparator\obj\Debug\ORQuerySeparator.pdb
